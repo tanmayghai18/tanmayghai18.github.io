@@ -100,6 +100,12 @@ papertitle {
   font-weight: 700
 }
 
+
+subheading {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 16px;
+}
+
 name {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 32px;
